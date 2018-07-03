@@ -7,8 +7,11 @@ STEP B: Open mysql using the following command: **mysql -u root -p**
 STEP C: Enter Passphrase (if you are not using any passphrase, remove or comment out line 20 of app.js)
 <br />
 STEP D: Create Database using the following command: **CREATE DATABASE assignment;**
+<br />
 STEP E: Switch to assignment database using the following command: **USE assignment;**
+<br />
 STEP F: Create table trade_data using the following command:
+<br />
 **CREATE TABLE trade_data( time_exchange TIMESTAMP DEFAULT NOW(), 
 uuid VARCHAR(255) PRIMARY KEY, 
 price DECIMAL(24,8), 
@@ -18,6 +21,7 @@ symbol VARCHAR(255),
 type VARCHAR(20) DEFAULT "TRADE");**
 <br />
 STEP G: Run the following command that all the attributes of the database have been properly defined: **DESCRIBE trade_data;**
+<br />
 # Assignment-AppB
 STEP 1: Download the zip file
 <br />
