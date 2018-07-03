@@ -34,4 +34,5 @@ STEP 6: Run the following command on the terminal: **node index.js**
 STEP 7: I've added console.log() to display the data incoming from the API. The ScreenShot.png file should give you the idea how the terminal should look.
 <br />
 **ERROR**
+<br />
 In case you see API KEY error message, just copy any of the API Keys mentioned in comments from lines 6 through  13 and paste it in it's appropriate location on line 27.
