@@ -1,4 +1,4 @@
-# Before Running STEP 6 Ensure the database and the table is ready, Follow these steps otherwise:
+# Before Running STEP 6, Ensure the database and the table is ready, Follow these steps to do so:
 
 STEP A: Open Terminal
 <br />
